@@ -1,2 +1,2 @@
 # sample 2
-Editing in branch1
+Editing in branch
